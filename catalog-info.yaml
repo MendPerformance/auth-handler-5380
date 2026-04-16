@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: auth-handler-5380
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/auth-handler-5380
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
